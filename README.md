@@ -1,2 +1,2 @@
 # PolliNet
-![PolliNet]('https://github.com/LuisRobaina/PolliNet/blob/master/Pollinator.jpg')
+![PolliNet]('Pollinator.jpg')
